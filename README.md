@@ -1,4 +1,4 @@
-# vue-music-youbaowu
+# vue-music-player
 
 > music player
 
